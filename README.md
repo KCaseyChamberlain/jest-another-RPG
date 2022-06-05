@@ -8,7 +8,7 @@ This application is command-line role-playing game (RPG) in which the user battl
 This application is licensed under MIT
 
 ### Application Demo
-![kcaseychamberlain React Portfolio](./assets/demo.jpg)
+![Jest Another RPG](./assets/demo.jpg)
 
 ### Table of Contents
 - [Description](#description)
